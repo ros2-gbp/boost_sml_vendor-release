@@ -4,7 +4,7 @@
   schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="2">
   <name>boost_sml_vendor</name>
-  <version>1.1.11</version>
+  <version>1.1.12</version>
   <description>
     Vendor package for the Boost SML (State Machine Language)
   </description>
