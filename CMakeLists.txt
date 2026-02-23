@@ -6,7 +6,7 @@ find_package(ament_cmake_vendor_package REQUIRED)
 
 ament_vendor(${PROJECT_NAME}
   VCS_URL https://github.com/boost-ext/sml.git
-  VCS_VERSION v1.1.12
+  VCS_VERSION v1.1.13
   VCS_TYPE git
 )
 
